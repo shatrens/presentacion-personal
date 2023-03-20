@@ -1,6 +1,6 @@
 # Denise Nicole Damico
 
-![Yo](./imagenes/DND.jpg "Esta soy yo")
+![Yo](/Imagenes/yo.jpeg "Esta soy yo")
 
 ## **Presentación**
 Soy estudiante de la **Lic. en Gestión de Tecnologías de la Información** de la [Universidad Nacional de José C. Paz](www.unpaz.edu.ar) y trabajo como Soporte Técnico para **Doki Doki Japan**.
