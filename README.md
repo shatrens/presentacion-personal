@@ -1,9 +1,17 @@
 # Denise Nicole Damico
 
-![Ésta soy yo](./imagenes/yo.jpg "Este es el epígrafe")
+![Ésta soy yo](./imagenes/DND.jpg "Ésta soy yo")
 
-Soy **estudiante de programación** de la Universidad Nacional de [José C. Paz]
+## **Presentación**
+Soy estudiante de la **Lic. en Gestión de Tecnologías de la Información** de la [Universidad Nacional de José C. Paz](www.unpaz.edu.ar) y trabajo como Soporte Técnico para **Doki Doki Japan**.
 
-## Datos Personales
+### *Sobre mí*
 
-- Edad 24
+- Tengo 24 años.
+- Vivo en San Miguel, Bs. As.
+- Cuento con nivel avanzado de Inglés [(C1-EF)](https://www.efset.org/cert/Dk3yYU).
+- En mis tiempos libres me gusta salir a correr y jugar Basquet.
+- Mi comida favorita es el Sandwich de Bondiola.
+
+### *Contacto*
+Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/denisedamico98/) o enviarme un correo a denise.damico33@gmail.com
